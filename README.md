@@ -1,5 +1,7 @@
-📊 Louis Vuitton Sales Analysis & Dashboard
+📊 Louis Vuitton Sales Analysis & Dashboard 
 👜 Project Overview
+
+https://medium.com/@nithiskumar11nk/louis-vuitton-sales-analysis-dashboard-711e65d93e02
 
 This project focuses on analyzing sales data for the French luxury fashion house Louis Vuitton.
 The dataset was created and processed using Python in VS Code, and an interactive visualization dashboard was developed using Power BI to extract meaningful business insights.
